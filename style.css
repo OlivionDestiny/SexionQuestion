@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Font-header";
+    src: url(SweetTalk.otf);
+}
+
+h1 {
+
+    font-family: "Font-header", Verdana, Geneva, Tahoma, sans-serif; 
+    width: 1000px;
+	height: 95px;
+	position:relative;
+	left: 50%;
+	z-index: 10;
+	margin-left: -500px;
+}
+
+
+
+.nav {
+
+ position:sticky;
+ background-color: #FF3339;
+ 
+}
+
+.nav-link {
+
+    color:white;
+}
